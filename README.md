@@ -1,4 +1,4 @@
-# Made 15 JavaScript projects following a video called "Build 15 JavaScript Projects - Vanilla JavaScript Course -By FreeCodeCamp".
+# Made 15 JavaScript projects following a video called "Build 15 JavaScript Projects - Vanilla JavaScript Course - By FreeCodeCamp".
 ### [Addition: 15 Projects so far. Might add more later with time].
 
 **Build 15 JavaScript Projects - Vanilla JavaScript Course**
